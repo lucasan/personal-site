@@ -3,12 +3,12 @@ module.exports = {
     {
       resolve: "@lucasan/lity-sites-theme",
       options: {
-        baseUrl: 'http://127.0.0.1:8002',
-        protocol: 'http',
+        baseUrl: 'https://src.lucastorres.co',
+        protocol: 'https',
         hostingWPCOM: false,
         useACF: true,
-        sourceUrl: 'http://127.0.0.1:8002/',
-        replacementUrl: 'http://127.0.0.1:8000/'
+        sourceUrl: 'https://src.lucastorres.co/',
+        replacementUrl: 'https://lucastorres.co/'
       }
     }
   ]
